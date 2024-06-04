@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vince441
+- 👋 Hi, I’m Vincent
 - 👀 I’m interested in Coding, music, video game 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next,js
 - 💞️ I’m looking to collaborate on all project
 - 📫 How to reach me => Follow my profil
 
