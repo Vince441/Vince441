@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Vincent
-- 👀 I’m interested in Coding, music, video game 
-- 🌱 I’m currently learning Next,js
-- 💞️ I’m looking to collaborate on all project
-- 📫 How to reach me => Follow my profil
+Bonjour, je m'appelle Vincent.
+Je suis développeur web fullstack situé à Nantes.
+Je cherche ma place dans le monde de la tech.
 
-<!---
-Vince441/Vince441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Compétences :
+React.js, Node.js, Express, Agile, Illustrator, Figma, MySQL
+
+Disponible pour tout type de contrat.
+
+Je travaille sur mon portfolio en HTML, CSS, JS.
